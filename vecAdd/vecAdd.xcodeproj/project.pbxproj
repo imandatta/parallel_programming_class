@@ -1,0 +1,72 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXFileReference section */
+		21449CFF1B55CCC50039D251 /* vecAdd.cu */ = {isa = PBXFileReference; lastKnownFileType = text; path = vecAdd.cu; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		21449CF71B55CC980039D251 = {
+			isa = PBXGroup;
+			children = (
+				21449CFF1B55CCC50039D251 /* vecAdd.cu */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		21449CF81B55CC980039D251 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0510;
+			};
+			buildConfigurationList = 21449CFB1B55CC980039D251 /* Build configuration list for PBXProject "vecAdd" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 21449CF71B55CC980039D251;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		21449CFC1B55CC980039D251 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		21449CFD1B55CC980039D251 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		21449CFB1B55CC980039D251 /* Build configuration list for PBXProject "vecAdd" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				21449CFC1B55CC980039D251 /* Debug */,
+				21449CFD1B55CC980039D251 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 21449CF81B55CC980039D251 /* Project object */;
+}
