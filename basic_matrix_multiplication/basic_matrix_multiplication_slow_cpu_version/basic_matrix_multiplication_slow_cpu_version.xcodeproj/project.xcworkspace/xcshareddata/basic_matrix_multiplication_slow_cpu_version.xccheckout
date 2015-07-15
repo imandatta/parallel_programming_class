@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>22AA8CAA-770D-4B27-B55F-31CED442F1C4</string>
+	<key>IDESourceControlProjectName</key>
+	<string>basic_matrix_multiplication_slow_cpu_version</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C46EF288-6E3C-462D-875E-A6A029FFB605</key>
+		<string>https://github.com/imandatta/parallel_programming_class.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>basic_matrix_multiplication/basic_matrix_multiplication_slow_cpu_version/basic_matrix_multiplication_slow_cpu_version.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C46EF288-6E3C-462D-875E-A6A029FFB605</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/imandatta/parallel_programming_class.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C46EF288-6E3C-462D-875E-A6A029FFB605</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C46EF288-6E3C-462D-875E-A6A029FFB605</string>
+			<key>IDESourceControlWCCName</key>
+			<string>parallel_programming_class</string>
+		</dict>
+	</array>
+</dict>
+</plist>
