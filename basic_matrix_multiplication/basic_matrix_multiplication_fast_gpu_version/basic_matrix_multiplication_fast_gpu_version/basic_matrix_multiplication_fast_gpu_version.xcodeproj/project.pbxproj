@@ -1,0 +1,72 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXFileReference section */
+		2192ABAC1B57342200A397C3 /* matrix_multiplication.cu */ = {isa = PBXFileReference; lastKnownFileType = text; path = matrix_multiplication.cu; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		2192ABA51B5733FB00A397C3 = {
+			isa = PBXGroup;
+			children = (
+				2192ABAC1B57342200A397C3 /* matrix_multiplication.cu */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		2192ABA61B5733FB00A397C3 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0510;
+			};
+			buildConfigurationList = 2192ABA91B5733FB00A397C3 /* Build configuration list for PBXProject "basic_matrix_multiplication_fast_gpu_version" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 2192ABA51B5733FB00A397C3;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		2192ABAA1B5733FB00A397C3 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		2192ABAB1B5733FB00A397C3 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		2192ABA91B5733FB00A397C3 /* Build configuration list for PBXProject "basic_matrix_multiplication_fast_gpu_version" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2192ABAA1B5733FB00A397C3 /* Debug */,
+				2192ABAB1B5733FB00A397C3 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 2192ABA61B5733FB00A397C3 /* Project object */;
+}
